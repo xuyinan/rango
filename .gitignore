@@ -1,0 +1,8 @@
+ystem:
+.DS_Store
+
+
+# Python:
+*.pyc
+dist
+build
